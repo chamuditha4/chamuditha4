@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chamuditha4
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning About Programming
-- 💞️ I’m looking to collaborate on Internship Programme
 - 📫 How to reach me : jayasena940@gmail.com
 
 <!---
