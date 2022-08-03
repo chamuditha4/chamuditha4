@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @chamuditha4
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning About Programming
-- 📫 How to reach me : jayasena940@gmail.com
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=chamuditha4">
+</p>
 
-<!---
-chamuditha4/chamuditha4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me #
+I am a programmer who loves automation. I focus on web automation, using tools like Selenium and Puppeteer. I have also developed a few custom scripts for specific tasks that needed to be automated. I enjoy working on anything from small scripts to large projects. I am always looking for new ways to improve my skills and knowledge.
