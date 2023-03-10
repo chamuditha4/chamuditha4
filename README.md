@@ -5,6 +5,7 @@
 <img align="right" height="200" width="200" alt="GIF" src="https://github.com/chamuditha4/chamuditha4/blob/main/1564588418798.gif" />
 
 ### About Me ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamuditha4&label=Profile%20views&color=0e75b6&style=flat" alt="dinirux" /> </p>
 I am a programmer who loves automation. I focus on web automation, using tools like Selenium and Puppeteer. I have also developed a few custom scripts for specific tasks that needed to be automated. I enjoy working on anything from small scripts to large projects. I am always looking for new ways to improve my skills and knowledge.
 
 
