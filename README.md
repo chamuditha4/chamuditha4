@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=chamuditha4">
-</p>
+
 
 <img align="right" height="200" width="200" alt="GIF" src="https://github.com/chamuditha4/chamuditha4/blob/main/1564588418798.gif" />
 
@@ -8,7 +6,6 @@
 
 ![version :26.09.2022](https://img.shields.io/badge/version-11.03.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=chamuditha4&color=red)&nbsp;
-[![GitHub souravjain540](https://img.shields.io/github/followers/chamuditha4?label=follow&style=social)](https://github.com/chamuditha4)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
